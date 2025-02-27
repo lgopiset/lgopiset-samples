@@ -13,6 +13,7 @@ public class GetUniqueRecords {
     }
 
     public static void main(String[] args) {
+        System.out.println("hello");
         List<String> strings = new ArrayList<>();
         strings.add("apple");
         strings.add("banana");
